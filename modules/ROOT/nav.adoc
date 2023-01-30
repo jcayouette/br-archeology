@@ -1,1 +1,1 @@
-* xref:index.adoc[Archeological Evidence]
+* xref:archeology-intro.adoc[Archeological Evidence]
